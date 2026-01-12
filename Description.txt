@@ -1,0 +1,118 @@
+# 🚀 SLINGBOOM - HOW TO PLAY
+
+**The alien battle begins!**
+
+---
+
+## 📖 GAME INTRODUCTION
+
+**Slingboom** is a turn-based shooter game between two aliens on your phone. You control an alien character using a slingshot to shoot down opponents in a space full of obstacles!
+
+---
+
+## 🎮 BASIC GAMEPLAY STEPS
+
+### **Step 1: Select a Card**
+- Each turn you will have **4 cards** in your hand.
+- Each card costs a different amount of **Energy**.
+- Tap on the card to select the type of bullet you want to shoot.
+
+### **Step 2: Drag to Aim**
+- After selecting a card, **drag your finger** on the screen to aim.
+- Drag **down** = shoot upwards.
+- Drag **left** = shoot to the right.
+- Drag **right** = shoot to the left.
+- The colored line shows the **bullet trajectory**.
+
+### **Step 3: Release to Shoot**
+- **Release your finger** to fire the bullet.
+
+- The bullet will fly along the aimed trajectory.
+
+- Try to hit the enemy or destroy the obstacle.
+
+### **Step 4: End Your Turn**
+- After Shoot all cards or run out of energy, press the **"END TURN"** button.
+
+- Or wait for the time to run out (30 seconds) and the turn will automatically end.
+
+---
+## 🃏 CARD TYPES
+
+### **1. Normal Shot ⚪**
+
+- **Energy**: 1
+
+- **Description**: Basic bullet, flies straight, deals moderate damage
+- **When to use**: Use for reconnaissance or when energy is low
+
+### **2. Bomb 💣**
+
+- **Energy**: 2
+
+- **Description**: Explosive bullet with a large radius, deals strong damage
+- **When to use**: Use to break walls or deal area damage
+
+### **3. Triple Shot 🔱**
+- **Energy**: 2
+- **Description**: Fires 3 bullets simultaneously in a fan shape
+- **When to use**: Increases the chance of hitting the target when the enemy is far away
+
+---
+
+## ⚡ ENERGY SYSTEM
+
+- You have **3 energy** initially each turn
+- Each turn, energy **increases by 1** (turn 1 = 3, turn 2 = 4, turn 3 = 5...)
+
+- Choosing a card will **consume energy** according to the card's price
+- When **energy runs out** or there is insufficient energy for any card, the turn will automatically end
+
+---
+## 🎯 OBJECTIVE
+
+### **Victory when:**
+
+- Reduces the HP of **ALL enemies** to 0
+- Enemies **fall into the abyss** (KillZone)
+
+### **Defeat when:**
+
+- **ALL teammates'** HP reaches 0
+
+- You **fall into a ravine**
+
+---
+## 🛡️ OBSTACLES
+
+### **Wooden Wall 🟫**
+
+- Can be **destroyed** with bullets
+
+- Blocks bullet trajectories
+- Used for cover or to create a path
+
+### **Stone Wall 🔵**
+
+- **INDESTRUCTIBLE**
+- Used to trigger ricochets
+
+- Use stone walls for creative tactics
+
+### **Wooden Box 📦**
+
+- Can be destroyed
+
+- Sometimes provides cover for items inside
+
+---
+## 🚁 SPECIAL AIRSHIP
+
+- Airships appear randomly and fly back and forth between two points
+
+- **Shoot** Hitting the spaceship** will grant:
+
+- ✅ **+2 MAX energy** (permanent increase)
+
+- ✅ **Current energy is fully restored**
+- A great opportunity to **fire multiple shots** in a single turn!

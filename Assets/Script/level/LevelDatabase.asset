@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 609a68ee6b352df42b41567ea6463866, type: 3}
+  m_Name: LevelDatabase
+  m_EditorClassIdentifier: 
+  allLevels:
+  - levelName: 1
+    levelPrefab: {fileID: 7411325656562384453, guid: 2174b79c4d227064d947194ead6721d8, type: 3}
+    levelThumbnail: {fileID: 0}
+    isUnlocked: 1
+    isCompleted: 1
+    stars: 3
+  - levelName: 2
+    levelPrefab: {fileID: 8349594621388345578, guid: 6de32ee3bd13ca44c83b40897984fc08, type: 3}
+    levelThumbnail: {fileID: 0}
+    isUnlocked: 1
+    isCompleted: 1
+    stars: 3
+  - levelName: 3
+    levelPrefab: {fileID: 1807648942815043524, guid: 8baa45648f04f134a9a5e254ffd641d2, type: 3}
+    levelThumbnail: {fileID: 0}
+    isUnlocked: 0
+    isCompleted: 0
+    stars: 0
+  - levelName: 4
+    levelPrefab: {fileID: 2242165964410825649, guid: 39833fef672323e478cdda44a500838d, type: 3}
+    levelThumbnail: {fileID: 0}
+    isUnlocked: 0
+    isCompleted: 0
+    stars: 0
+  - levelName: 5
+    levelPrefab: {fileID: 2262963069865418606, guid: df6cbc20120b6ca46bd9a5ef0b4871dd, type: 3}
+    levelThumbnail: {fileID: 0}
+    isUnlocked: 0
+    isCompleted: 0
+    stars: 0
+  - levelName: 6
+    levelPrefab: {fileID: 6229939440149297666, guid: d0d214d09d69cbd4ab4ccf25d9345aca, type: 3}
+    levelThumbnail: {fileID: 0}
+    isUnlocked: 0
+    isCompleted: 0
+    stars: 0
+  - levelName: 7
+    levelPrefab: {fileID: 4449787353462157782, guid: 7230d898b4e49d740a53761aa08fb411, type: 3}
+    levelThumbnail: {fileID: 0}
+    isUnlocked: 0
+    isCompleted: 0
+    stars: 0
+  - levelName: 8
+    levelPrefab: {fileID: 6814086795320796235, guid: dc61a51fef103a34f890ee5dd2d39006, type: 3}
+    levelThumbnail: {fileID: 0}
+    isUnlocked: 0
+    isCompleted: 0
+    stars: 0
+  - levelName: 9
+    levelPrefab: {fileID: 5502986112477215584, guid: 3a19b4b0af9632f4ea62752a367685ac, type: 3}
+    levelThumbnail: {fileID: 0}
+    isUnlocked: 0
+    isCompleted: 0
+    stars: 0
+  - levelName: 10
+    levelPrefab: {fileID: 916486157936173893, guid: 4fbb7fdfc7424854a92685280dd8646e, type: 3}
+    levelThumbnail: {fileID: 0}
+    isUnlocked: 0
+    isCompleted: 0
+    stars: 0
+  - levelName: 11
+    levelPrefab: {fileID: 9037288340459786975, guid: 81dd043c14d2ae5449ad6f5dbf153723, type: 3}
+    levelThumbnail: {fileID: 0}
+    isUnlocked: 0
+    isCompleted: 0
+    stars: 0
+  - levelName: 12
+    levelPrefab: {fileID: 7160317287633668072, guid: 29e1e76670bf71a4bb23072ff5e6f304, type: 3}
+    levelThumbnail: {fileID: 0}
+    isUnlocked: 0
+    isCompleted: 0
+    stars: 0
+  - levelName: 13
+    levelPrefab: {fileID: 8561773890351084065, guid: dea10dcdd12d7a14a81795e28c1ec5b7, type: 3}
+    levelThumbnail: {fileID: 0}
+    isUnlocked: 0
+    isCompleted: 0
+    stars: 0
+  - levelName: 14
+    levelPrefab: {fileID: 4198131124704636993, guid: e0a8532390188fb4f93c324344ff353c, type: 3}
+    levelThumbnail: {fileID: 0}
+    isUnlocked: 0
+    isCompleted: 0
+    stars: 0
+  - levelName: 15
+    levelPrefab: {fileID: 1292768531875366526, guid: fd71e260027c26a4eb0970ce618aebcd, type: 3}
+    levelThumbnail: {fileID: 0}
+    isUnlocked: 0
+    isCompleted: 0
+    stars: 0
+  currentLevelIndex: 1
